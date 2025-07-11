@@ -10,22 +10,22 @@ h1, h3 {
     font-size: 60px;
 }
 .one {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/one.jpeg?v=1699330896309);
+    background-image: url(images/one.jpeg);
 }
 .two {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/two.jpeg?v=1699330910009);
+    background-image: url(images/two.jpeg);
 }
 .three {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/three.jpeg?v=1699330918800);
+    background-image: url(images/three.jpeg);
 }
 .four {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/four.jpeg?v=1699330928998);
+    background-image: url(images/four.jpeg);
 }
 .five {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/five.jpeg?v=1699330938918);
+    background-image: url(images/five.jpeg);
 }
 .six {
-    background-image: url(https://cdn.glitch.global/adf2cbcc-e504-4d1d-a8d8-070091675cdf/six.jpeg?v=1699330946397);
+    background-image: url(images/six.jpeg);
 }
 .item {
     height: 90vh;
